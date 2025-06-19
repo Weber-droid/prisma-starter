@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/Weber-droid/prisma-starter#readme",
   "dependencies": {
+    "@prisma/client": "^6.10.1",
     "dotenv": "^16.5.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "prisma": "^6.10.1"
   }
 }
